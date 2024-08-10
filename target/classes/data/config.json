@@ -1,0 +1,15 @@
+{
+	"Environments": {
+    "QA": {
+      "url": "https://parabank.parasoft.com/parabank/index.htm",
+      "user": "krusha16@gmail.com",
+      "password": "Tst001!!!"
+    },
+    "DEV": {
+      "url": "https://www.google.com",
+      "user": "testuser",
+      "password": "Tst001!!!"
+    }
+	}
+}
+
